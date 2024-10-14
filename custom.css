@@ -1,0 +1,9 @@
+.wrapper{
+    width: 450px;
+    border-style: solid;
+    border-color: rgb(212, 212, 212);
+    border-width:1px;
+    border-radius: 5px;
+    box-shadow: 4px 5px rgba(180, 180, 180, 0.129) ;
+
+}
